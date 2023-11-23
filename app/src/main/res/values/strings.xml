@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bajaj Donga Indent</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="MSG_LOGIN">Enter username and password to proceed</string>
+    <string name="MSG_NEED_PERMISSION">Need Permission</string>
+    <string name="MSG_NEED_PERMISSION_REQUEST">Application need some permission to running smoothely</string>
+    <string name="MSG_PLEASE_ENTER">Please Enter</string>
+    <string name="MSG_INVALID_CREDENTIALS">Please Enter valid credentials</string>
+    <string name="MSG_PLEASE_WAIT">Please wait</string>
+
+
+    <string name="BTN_OK">OK</string>
+    <string name="BTN_YES">Yes</string>
+    <string name="BTN_LATER">Later</string>
+</resources>
